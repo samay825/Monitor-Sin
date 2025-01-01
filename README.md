@@ -31,7 +31,7 @@ To get started with Sin Monitor, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Monitor-Sin.git
+   git clone https://github.com/samay825/Monitor-Sin.git
    ```
 
 2. Navigate to the project directory:
